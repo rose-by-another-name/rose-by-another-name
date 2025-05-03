@@ -1,16 +1,16 @@
 # My name's Bee, a beginner to all things coding!
 
-## 🌐 Coding language(s):
-        - Python
+## 🌐 Coding language(s)
+* Python
 
-## 📚 Currently Learning:
+## 📚 Currently Learning
 [Boot.dev](www.boot.dev/)
-        - "Learn Linux"
-        - "Learn Object Oriented Programming in Python"
+* "Learn Linux"
+* "Learn Object Oriented Programming in Python"
 
-## 📋 Projects I've completed:
+## 📋 Projects I've completed
 [Boot.dev](www.boot.dev/)
-        - Bookbot
+* Bookbot
 
 <!--
 **rose-by-another-name/rose-by-another-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
