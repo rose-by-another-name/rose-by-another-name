@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, my name is Bee and I am a beginner in the coding world!
+
+##
 
 <!--
 **rose-by-another-name/rose-by-another-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
