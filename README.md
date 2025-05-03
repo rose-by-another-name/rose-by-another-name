@@ -1,4 +1,5 @@
-# My name's Bee, a beginner to all things coding!
+# Hi, my name's Bee 🐝
+A newbie to the world of coding ...
 
 ## 🗂️ Academic Background
 * 🏺 Ancient History
