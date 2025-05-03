@@ -1,5 +1,9 @@
 # My name's Bee, a beginner to all things coding!
 
+## 🗂️ Academic Background
+* 🏺 Ancient History
+* 🖥️ Digital Humanities
+
 <h2>Tools I've been Using 🛠️</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt = "python" width="30" height="30"/>
