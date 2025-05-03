@@ -1,11 +1,11 @@
 # My name's Bee, a beginner to all things coding!
 
-##📚 Currently Learning:
+## 📚 Currently Learning:
       Boot.dev
         - "Learn Linux"
         - "Learn Object Oriented Programming in Python"
 
-##📋 Projects I've completed:
+## 📋 Projects I've completed:
       Boot.dev
         - Bookbot
 
