@@ -13,17 +13,20 @@ A newbie to the world of coding ...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="linux" width="30" height="30"/>
 </p>
 
-## 📚 Courses I'm Working On
+## 📚 Current Learning
 [Boot.dev](www.boot.dev/)
 * "Learn Linux"
 * "Learn Object Oriented Programming in Python"
 
-## 🔖 Courses I've Completed
+## 🔖 Completed Learning
 [Boot.dev](www.boot.dev/)
 * "Learn to Code in Python"
 * "Learn Git"
 
-## 📋 Projects I've completed
+## 🚧 Current Projects
+No current projects
+
+## 📋 Completed Projects
 [Boot.dev](www.boot.dev/)
 * "Build a Bookbot in Python"
 
