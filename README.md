@@ -2,7 +2,7 @@
 A newbie to the world of coding ...
 
 ### Nerdy facts
-* My user-name comes from a famous quote
+* My user-name comes from the famous quote
   > "a rose by any other name would smell as sweet" - _Romeo and Juliet_, William Shakespeare
 * The word "hippopotamus" originates from the conjugation of two Ancient Greek words\
   "ἵππος" (hippos) meaning _horse_, and "ποταμός" (potamos) meaning _river_\
