@@ -1,6 +1,13 @@
-## Hi there, my name is Bee and I am a beginner in the coding world!
+# My name's Bee, a beginner to all things coding!
 
-##
+##📚 Currently Learning:
+      Boot.dev
+        - "Learn Linux"
+        - "Learn Object Oriented Programming in Python"
+
+##📋 Projects I've completed:
+      Boot.dev
+        - Bookbot
 
 <!--
 **rose-by-another-name/rose-by-another-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
