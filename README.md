@@ -4,12 +4,12 @@
         - Python
 
 ## 📚 Currently Learning:
-      [Boot.dev](www.boot.dev)
+      [Boot.dev](www.boot.dev/)
         - "Learn Linux"
         - "Learn Object Oriented Programming in Python"
 
 ## 📋 Projects I've completed:
-      [Boot.dev](www.boot.dev)
+      [Boot.dev](www.boot.dev/)
         - Bookbot
 
 <!--
