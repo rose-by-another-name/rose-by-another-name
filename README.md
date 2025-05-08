@@ -22,16 +22,17 @@ A newbie to the world of coding ...
 
 ## 📚 Current Learning
 [Boot.dev](www.boot.dev/)
-* "Learn Linux"
 * "Learn Object Oriented Programming in Python"
 
 ## 🔖 Completed Learning
 [Boot.dev](www.boot.dev/)
 * "Learn to Code in Python"
 * "Learn Git"
+* "Learn Linux"
 
 ## 🚧 Current Projects
-No current projects
+[Boot.dev](www.boot.dev/)
+* "Build Asteroids using Python and Pygame"
 
 ## 📋 Completed Projects
 [Boot.dev](www.boot.dev/)
