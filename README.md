@@ -33,6 +33,9 @@ A newbie to the world of coding ...
 ## 🚧 Current Projects
 [Boot.dev](www.boot.dev/)
 * "Build Asteroids using Python and Pygame"
+  
+[Practice-Python - Ratludu](https://github.com/Ratludu/Python-Practice)
+* Contributor
 
 ## 📋 Completed Projects
 [Boot.dev](www.boot.dev/)
