@@ -26,15 +26,13 @@ A newbie to the world of coding ...
 * "Learn Data Structures and Algorithms in Python"
 
 ## 🚧 Current Projects
-[Boot.dev](www.boot.dev/)
-* "Build Asteroids using Python and Pygame"
-  
-[Practice-Python - Ratludu](https://github.com/Ratludu/Python-Practice)
-* Contributor
+* [asteroids](https://github.com/rose-by-another-name/asteroids)
+    * a [Boot.dev](www.boot.dev/) project
+* ['Practice-Python' by Ratludu](https://github.com/Ratludu/Python-Practice)
+    * Contributor
 
 ## 📋 Completed Projects
-[Boot.dev](www.boot.dev/)
-* "Build a Bookbot in Python"
+* [bookbot](https://github.com/rose-by-another-name/bookbot)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose-by-another-name&layout=compact&theme=tokyonight)](https://github.com/rose-by-another-name/github-readme-stats)
