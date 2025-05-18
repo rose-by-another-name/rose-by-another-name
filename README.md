@@ -23,12 +23,7 @@ A newbie to the world of coding ...
 ## 📚 Current Learning
 [Boot.dev](www.boot.dev/)
 * "Learn Object Oriented Programming in Python"
-
-## 🔖 Completed Learning
-[Boot.dev](www.boot.dev/)
-* "Learn to Code in Python"
-* "Learn Git"
-* "Learn Linux"
+* "Learn Data Structures and Algorithms in Python"
 
 ## 🚧 Current Projects
 [Boot.dev](www.boot.dev/)
