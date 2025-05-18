@@ -33,6 +33,6 @@ A newbie to the world of coding ...
 
 ## 📋 Completed Projects
 * [bookbot](https://github.com/rose-by-another-name/bookbot)
-
+    * a [Boot.dev](www.boot.dev/) project
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rose-by-another-name&layout=compact&theme=tokyonight)](https://github.com/rose-by-another-name/github-readme-stats)
